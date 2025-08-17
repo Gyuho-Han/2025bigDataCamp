@@ -1,0 +1,8 @@
+# Environments
+.env
+
+# Chroma DB
+chroma_db/
+
+# Streamlit secrets
+.streamlit/
